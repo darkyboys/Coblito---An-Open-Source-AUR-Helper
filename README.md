@@ -1,7 +1,7 @@
 # Coblito - An AUR Helper For Arch Linux
 **Coblito** is an Open-Source and fully free and advanced AUR helper developer for Arch Linux users to install the AUR Packages with a lot of ease , Directly through there CLI tools or via terminal. **Coblito** is also entirely safe and fully free to be modified via it's source code as it uses a begginer friendly C++ program for it's development , Meaning anyone who understands C++ can easily contribute to this software!
 
-## Installing Coblito
+## 🧩Installing Coblito
 **Installing** a software may be a daunting task but this doesn't applies to **Coblito** as what you only need is to copy and paste the commands given bellow to your terminal and **Coblito** will be successfully installed.
 ```bash
 git clone https://github.com/darkyboys/Coblito---An-Open-Source-AUR-Helper.git
@@ -16,7 +16,7 @@ echo "Coblito was successfully installed in this directory now you can move the 
 
 **Congratulations!** you have successfully installed **Coblito** in your arch Linux system.
 
-## How To Use ?
+## 📃How To Use ?
 **Using Coblito** is pretty straightforward. Here's how you can use it:
 
 *So basically Coblito needs to be controlled via CLI arguments and we will see what those arguments may be just in a few minutes. But for using those arguments we uses coblito [arguments]*
@@ -94,7 +94,7 @@ coblito help
 
 *For deleting packages be sure to use `sudo pacman -R [package name]` or `sudo pacman -Rns [package name]` as your packages are installed via pacman in the end because coblito just makes your work of downloading and building the packages easy only but in the end pacman is used to install packages from the downloaded tar.zst file.*
 
-## Want To Contribute ?
+## 🤝🏻Want To Contribute ?
 Checkout the <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> file for more info.
 
 Licensed under the : <a href="LICENSE">MIT License</a>
