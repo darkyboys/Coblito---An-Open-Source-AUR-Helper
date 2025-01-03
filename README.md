@@ -1,3 +1,5 @@
+<img src="banner.png">
+
 # Coblito - An AUR Helper For Arch Linux
 **Coblito** is an Open-Source and fully free and advanced AUR helper developer for Arch Linux users to install the AUR Packages with a lot of ease , Directly through there CLI tools or via terminal. **Coblito** is also entirely safe and fully free to be modified via it's source code as it uses a begginer friendly C++ program for it's development , Meaning anyone who understands C++ can easily contribute to this software!
 
