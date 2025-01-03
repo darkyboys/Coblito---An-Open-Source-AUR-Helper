@@ -9,7 +9,7 @@ If you want to make a contribution then be sure to follow these entire guideline
  - Be sure to create a new branch of your GitHub username in order to seperate main & your contributions.
  - In your branch don't delete or remove any files just modify them or create new once instead.
  - You must comment 2 lines where 1st line must indicate starting point of your contributions and 2nd for ending point.
- - You must also provide a dedicated CONTRIBUTION.md file which will represent your contributions prefectly and be sure to follow the CONTRIBUTION.md file of the main repository or simply overwrite it.
+ - You must also provide a dedicated <a href="CONTRIBUTION.md">CONTRIBUTION.md</a> file which will represent your contributions prefectly and be sure to follow the CONTRIBUTION.md file of the main repository or simply overwrite it.
  - Your contributions must not include any illegal content , data collection practices , harrasing content for someone or bad language.
  - Your contributions must be original to you , Copying anyone else's contributions are not allowed.
  - Your contributions must add a new thing and it doesn't matter how little or big it is.
